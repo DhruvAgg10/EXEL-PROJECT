@@ -1,0 +1,32 @@
+# Calorie Tracker (Excel-Based)
+This project is an **Excel-based Calorie Tracker** that allows users to track their daily nutrient intake efficiently.  
+
+## Features:
+✅ Users can **choose food items** from an existing diet in **Sheet1** or enter their **custom diet**.  
+✅ **Dropdown selection** in **Sheet2** for quick meal logging.  
+✅ **VLOOKUP formulas** auto-fill **Protein, Carbs, Fats, and Calories**.  
+✅ **SUMIF formula** dynamically calculates total intake while ignoring errors.  
+✅ **Bar chart visualization** provides a clear overview of daily nutrient consumption.  
+
+## How It Works:
+1. **Sheet1:**  
+   - Contains a pre-defined food list with nutritional values.  
+   - Users can add custom food items along with their protein, carbs, fats, and calorie values.  
+
+2. **Sheet2:**  
+   - Users select food items from a **dropdown list**.  
+   - Corresponding nutritional values auto-fill based on the selection.  
+   - A **bar chart** dynamically updates to visualize daily intake.  
+
+## Technologies Used:
+- **Microsoft Excel**
+- **VLOOKUP, SUMIF, and Data Validation (Dropdowns)**
+- **Data Visualization using Excel Charts**
+
+## Project Repository:
+📌 **GitHub Link:** [https://github.com/DhruvAgg10/EXEL-PROJECT]
+
+## Author:
+- **[Dhruv Aggarwal](https://www.linkedin.com/in/dhruv-aggarwal-6bb858251/)**  
+
+Looking forward to feedback & suggestions! 🚀  
