@@ -1,0 +1,43 @@
+# Excel Sorting Tool using VBA
+
+This is a simple Excel tool that helps you **sort your data automatically** with just one click! It’s built using **VBA (Visual Basic for Applications)**, and is great for beginners who want to learn how to automate tasks in Excel.
+
+## 🔹 What It Does
+
+- Asks the user how they want to sort the data:
+  1. By Division
+  2. By Category
+  3. By Total
+
+- Then, it automatically sorts your data from **column A to F** in **descending order**.
+
+- If the input is wrong, it shows an error message and lets you try again.
+
+## 🖱️ How to Use It
+
+1. Open the Excel file.
+2. Press `Alt + F11` to check the VBA code (optional).
+3. Make sure your data is in columns A to F.
+4. Go to the **Developer Tab**, insert a **Button**, and link it to the `SortUsingUserInput` macro.
+5. Click the button and choose how you want to sort.
+
+That’s it — your data is sorted instantly!
+
+## 💡 Features
+
+- Easy-to-use InputBox for sorting choices
+- Error handling for invalid entries
+- Clickable button to run the macro
+- Clean and beginner-friendly code
+
+## 📂 File Info
+
+- File type: `.xlsm` (Macro-Enabled Workbook)
+- Works with Microsoft Excel (Desktop version)
+
+---
+
+Feel free to explore or improve the code further by:
+- Adding Ascending/Descending options
+- Letting user select sort range
+- Adding more sorting categories
