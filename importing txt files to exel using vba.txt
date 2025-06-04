@@ -1,0 +1,28 @@
+📊 Import Multiple Text Files into Excel (VBA Macro)
+This Excel tool allows you to import multiple text files (like .txt or .csv) into a single workbook. Each file's content is copied into a new worksheet, named after the file itself.
+
+🔧 Features
+Select multiple files at once using a file picker
+
+Automatically creates and names new sheets
+
+Copies complete data regions from each file
+
+🧰 How to Use
+Open the Excel file provided.
+
+Enable macros if prompted.
+
+Run the macro Inserttxtfile (via Developer Tab or Alt + F8).
+
+Select the text files you want to import.
+
+Done! Each file’s data will appear on a separate sheet.
+
+📌 Notes
+Only the first sheet of each opened file is read.
+
+Sheet names are based on file names—avoid special characters.
+
+Ideal for importing structured tabular text data.
+
